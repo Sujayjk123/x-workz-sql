@@ -1,4 +1,4 @@
-SQL Practice
+## Purpose SQL Practice
 
 A collection of MySQL queries written while practicing and strengthening core SQL concepts — from basic filtering to more advanced joins, subqueries, and window functions.
 
@@ -32,6 +32,7 @@ Note
 
 This is an ongoing practice repo and will be updated as new concepts are covered.
 
-Author
+## Author
 
-Sujay J K GitHub
+**Sujay J K**
+[GitHub](https://github.com/Sujayjk123)
